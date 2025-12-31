@@ -281,5 +281,5 @@ on the Aptos blockchain without failures.
 <p>
 <strong>SOLAR_ORACLE</strong> successfully bridges off-chain renewable energy data
 to on-chain smart contracts, enabling transparent, verifiable,
-and programmable access to solar intelligence.
+and programmable access to solar intelligence
 </p>
